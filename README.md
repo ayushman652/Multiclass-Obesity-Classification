@@ -42,6 +42,9 @@ The project uses the **Estimation of Obesity Levels Based on Eating Habits and P
 
 Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
 
+The dataset may have a different filename depending on the download source. Rename the downloaded CSV to Obesity_level_predictiion_dataset.csv and place it inside datasets/obesity/
+
+
 | Property | Value |
 |---|---|
 | Samples | 2,111 |
